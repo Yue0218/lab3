@@ -4,7 +4,8 @@
   "description": "A simple Hello World static web app",
   "main": "index.html",
   "scripts": {
-    "start": "echo 'This is a static app and does not require a server'"
+    "start": "echo 'This is a static app and does not require a server'",
+    "build": "echo 'No build step required'"
   },
   "keywords": ["static", "web", "hello world"],
   "author": "Yue",
