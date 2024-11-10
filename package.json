@@ -1,0 +1,12 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "A simple Hello World static web app",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'This is a static app and does not require a server'"
+  },
+  "keywords": ["static", "web", "hello world"],
+  "author": "Yue",
+  "license": "ISC"
+}
